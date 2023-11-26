@@ -1,0 +1,1 @@
+<textarea class="form-control" name="description" id="description" >{{ $value }}</textarea>
